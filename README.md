@@ -20,6 +20,10 @@ The final dashboard should be clear, interactive, and visually compelling, enabl
 Movie Data : The primary dataset used for this analysis is the "Movie Data Homework.xlsx" file, containing detailed information about each movie's performance (box office and budget), actors, directors and genres. 
  You can download original datasource here: [Movie Dataset Excel file](https://github.com/user-attachments/files/23697996/Homework.Nov.10.25.xlsx)
 ### Tools
-Power Query - I used Power Query for Data Cleaning
-Excel - I used Excel for Data Analysis
-Pivot Tables - for Creating the dashboard and Visualizations
+1. Power Query - I used Power Query for Data Cleaning
+2. Excel - I used Excel for Data Analysis
+3. Pivot Tables - for Creating the dashboard and Visualizations
+### Data Cleaning
+- Data loading and inspection.
+- Handling errors, missing values.
+- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - 
