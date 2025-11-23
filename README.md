@@ -27,4 +27,5 @@ Movie Data : The primary dataset used for this analysis is the "Movie Data Homew
 ### Data Cleaning
 - Data loading and inspection.
 - Handling errors, missing values.
-- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - 
+- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - [Movie dashboard](https://github.com/user-attachments/files/23698133/Homework.Nov.10.25.xlsx)
+### Dashboard
